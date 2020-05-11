@@ -1,4 +1,4 @@
 # ML_ChurnRate
-### Обучение с учителем, кластеризация данных.
-#### Модели классификации: LogisticRegression, RandomForest, gradient boosting
-#### Модели кластеризации: K-Means, Агломеративная иерархическая кластеризация
+### Supervised learning, Data clustering.
+#### Classification : LogisticRegression, RandomForest, gradient boosting
+#### Clustering : K-Means, Hierarchical clustering
